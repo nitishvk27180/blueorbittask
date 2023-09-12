@@ -1,0 +1,21 @@
+section{
+    width: 50%;
+    margin-right:5%;
+    display: grid;
+    grid-template-columns: repeat(3, 0.5fr);
+    grid-template-rows: auto; 
+}
+
+.cards{
+    width: 250px;
+    height: auto;
+    padding: 5px;
+    margin: 10px;
+}
+
+.image_box img{
+    width: 200px;
+    height: 200px;
+    
+}
+
